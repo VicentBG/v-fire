@@ -1,0 +1,16 @@
+[2019-09-15 21:34:07.986] [sharedprocess] [info] main {"machineId":"23c22308564796bf70cc31935e495ed4b58ddaae5e3b9b9e466c3ccceb55bbab"}
+[2019-09-15 21:34:08.781] [sharedprocess] [info] Deleted from disk ms-azuretools.vscode-docker /home/vicentbg/.vscode/extensions/ms-azuretools.vscode-docker-0.7.0
+[2019-09-15 21:34:08.809] [sharedprocess] [info] Deleted from disk octref.vetur /home/vicentbg/.vscode/extensions/octref.vetur-0.22.2
+[2019-09-15 21:34:10.125] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2019-09-15 21:34:10.125] [sharedprocess] [info] Installing extension: redhat.vscode-yaml
+[2019-09-15 21:34:11.232] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/2b0d1e03-99c1-4411-96cd-2541f223372b
+[2019-09-15 21:34:11.504] [sharedprocess] [info] Downloaded extension: redhat.vscode-yaml /tmp/e6cf59aa-2528-4d12-923e-85aa737acae8
+[2019-09-15 21:34:11.638] [sharedprocess] [info] Extracted extension to /home/vicentbg/.vscode/extensions/.ms-azuretools.vscode-docker-0.8.1: ms-azuretools.vscode-docker
+[2019-09-15 21:34:11.638] [sharedprocess] [info] Renamed to /home/vicentbg/.vscode/extensions/ms-azuretools.vscode-docker-0.8.1
+[2019-09-15 21:34:11.640] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2019-09-15 21:34:11.687] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2019-09-15 21:34:12.436] [sharedprocess] [info] Extracted extension to /home/vicentbg/.vscode/extensions/.redhat.vscode-yaml-0.5.3: redhat.vscode-yaml
+[2019-09-15 21:34:12.436] [sharedprocess] [info] Renamed to /home/vicentbg/.vscode/extensions/redhat.vscode-yaml-0.5.3
+[2019-09-15 21:34:12.438] [sharedprocess] [info] Installation completed. redhat.vscode-yaml
+[2019-09-15 21:34:12.454] [sharedprocess] [info] Extensions installed successfully: redhat.vscode-yaml
+[2019-09-15 21:34:47.967] [sharedprocess] [info] Starting to clean up unused language packs.
