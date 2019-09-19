@@ -11,4 +11,4 @@ firebase.js
 *.ntvs*
 *.njsproj
 *.sln
-.vscode
+*.vscode
